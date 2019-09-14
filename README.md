@@ -1,3 +1,3 @@
 # Welcome to my GitHub ! 
 
-Guillaume Van Dessel, PhD student @uclouvain in numerical optimization
+Guillaume Van Dessel, PhD student @uclouvain in numerical optimization.
